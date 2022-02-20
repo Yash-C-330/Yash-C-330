@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Yash_C_19)
+[](./img/twitter-light.svg)](https://twitter.com/Yash_C_19)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yash-chaudhari-442a6a195/)
 
