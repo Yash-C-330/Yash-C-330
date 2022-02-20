@@ -13,10 +13,11 @@
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/Yash_C_19)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Yash_C_19)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Yash_C_19y)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yash-chaudhari-442a6a195/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yash-chaudhari-442a6a195/)
+
 
 ### Languages and Tools:
 
