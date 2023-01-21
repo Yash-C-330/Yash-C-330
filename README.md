@@ -4,17 +4,17 @@
 ## I'm a student, coder and developer.
 
 
-- 🌱 I’m currently learning blockchain and it's tools
+- 🌱 I’m currently learning DevOps.
 - 👯 I’m open for collaboration with other developers and coders
-- 🥅 2022 Goals: Learn more about web3 and more open source contribution
-- ⚡ Hobbies: Playing games
+- 🥅 2023 Goals: Doing lot more open source contribution
+
 
 
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/Yash_C_19)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yash-chaudhari-442a6a195/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yash-chaudhari-a39a90262/)
 
 
 ### Languages and Tools:
