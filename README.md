@@ -1,4 +1,4 @@
-# Hi there, I'm Yash Chaudhari - aka [Yash-C-330]👋 
+# Hi there, I'm Yash Chaudhari 👋 
 
 
 ## I'm a student, coder and developer.
